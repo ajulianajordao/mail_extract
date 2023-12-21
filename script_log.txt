@@ -1,0 +1,72 @@
+2023-11-30 17:20:55,826 - INFO: Step 1: Trying autodiscover on 'https://hotmail.com/autodiscover/autodiscover.svc' with email 'julianaj.fernandes@hotmail.com'
+2023-11-30 17:20:55,989 - INFO: Step 2: Trying autodiscover on 'https://autodiscover.hotmail.com/autodiscover/autodiscover.svc' with email 'julianaj.fernandes@hotmail.com'
+2023-11-30 17:35:44,886 - INFO: Step 1: Trying autodiscover on 'https://hotmail.com/autodiscover/autodiscover.svc' with email 'julianaj.fernanades@hotmail.com'
+2023-11-30 17:35:45,125 - INFO: Step 2: Trying autodiscover on 'https://autodiscover.hotmail.com/autodiscover/autodiscover.svc' with email 'julianaj.fernanades@hotmail.com'
+2023-11-30 17:40:44,510 - INFO: Step 1: Trying autodiscover on 'https://hotmail.com/autodiscover/autodiscover.svc' with email 'julianaj.fernandes@hotmail.com'
+2023-11-30 17:40:44,881 - INFO: Step 2: Trying autodiscover on 'https://autodiscover.hotmail.com/autodiscover/autodiscover.svc' with email 'julianaj.fernandes@hotmail.com'
+2023-11-30 17:53:33,688 - INFO: Step 1: Trying autodiscover on 'https://hotmail.com/autodiscover/autodiscover.svc' with email 'julianaj.fernandes@hotmail.com'
+2023-11-30 17:53:33,845 - INFO: Step 2: Trying autodiscover on 'https://autodiscover.hotmail.com/autodiscover/autodiscover.svc' with email 'julianaj.fernandes@hotmail.com'
+2023-11-30 18:09:06,029 - INFO: Step 1: Trying autodiscover on 'https://hotmail.com/autodiscover/autodiscover.svc' with email 'julianaj.fernandes@hotmail.com'
+2023-11-30 18:09:06,167 - INFO: Step 2: Trying autodiscover on 'https://autodiscover.hotmail.com/autodiscover/autodiscover.svc' with email 'julianaj.fernandes@hotmail.com'
+2023-11-30 18:11:01,973 - INFO: Step 1: Trying autodiscover on 'https://hotmail.com/autodiscover/autodiscover.svc' with email 'julianaj.fernandes@hotmail.com'
+2023-11-30 18:11:02,086 - INFO: Step 2: Trying autodiscover on 'https://autodiscover.hotmail.com/autodiscover/autodiscover.svc' with email 'julianaj.fernandes@hotmail.com'
+2023-11-30 18:44:06,663 - INFO: Step 1: Trying autodiscover on 'https://hotmail.com/autodiscover/autodiscover.svc' with email 'julianaj.fernandes@hotmail.com'
+2023-11-30 18:44:06,853 - INFO: Step 2: Trying autodiscover on 'https://autodiscover.hotmail.com/autodiscover/autodiscover.svc' with email 'julianaj.fernandes@hotmail.com'
+2023-11-30 18:44:09,368 - INFO: Step 5: Checking response
+2023-11-30 18:45:01,520 - INFO: Script iniciado.
+2023-11-30 18:45:02,472 - ERROR: Erro durante a execução do script: Field 'datetime_received' value '' must be of type <class 'exchangelib.ewsdatetime.EWSDateTime'>
+2023-11-30 18:46:36,139 - INFO: Step 5: Checking response
+2023-11-30 18:46:58,203 - INFO: Script iniciado.
+2023-11-30 18:46:58,934 - ERROR: Erro durante a execução do script: Value for filter on field path 'datetime_received' cannot be None
+2023-11-30 18:50:46,248 - INFO: Step 5: Checking response
+2023-11-30 18:51:16,935 - INFO: Script iniciado.
+2023-11-30 18:51:17,590 - ERROR: Erro durante a execução do script: Value for filter on field path 'datetime_received' cannot be None
+2023-11-30 18:52:40,493 - INFO: Step 5: Checking response
+2023-11-30 18:52:59,958 - INFO: Script iniciado.
+2023-11-30 18:53:00,731 - ERROR: Erro durante a execução do script: Value for filter on field path 'datetime_received' cannot be None
+2023-11-30 18:56:26,695 - INFO: Step 5: Checking response
+2023-11-30 18:59:14,925 - INFO: Script iniciado.
+2023-11-30 18:59:16,672 - ERROR: Erro durante a execução do script: Value for filter on field path 'datetime_received' cannot be None
+2023-11-30 19:02:36,659 - INFO: Step 5: Checking response
+2023-11-30 19:02:58,148 - INFO: Script iniciado.
+2023-11-30 19:02:59,375 - ERROR: Erro durante a execução do script: Value for filter on field path 'datetime_received' cannot be None
+2023-11-30 19:11:30,278 - INFO: Step 5: Checking response
+2023-11-30 19:11:30,581 - INFO: Step 5: Checking response
+2023-11-30 19:15:16,660 - INFO: Step 5: Checking response
+2023-11-30 19:15:16,925 - INFO: Step 5: Checking response
+2023-11-30 19:15:37,662 - INFO: Script iniciado.
+2023-11-30 19:15:38,443 - ERROR: Erro durante a execução do script: Value for filter on field path 'subject' cannot be None
+2023-11-30 19:15:38,481 - INFO: Script concluído.
+2023-11-30 19:18:43,080 - INFO: Step 5: Checking response
+2023-11-30 19:18:43,348 - INFO: Step 5: Checking response
+2023-11-30 19:21:12,530 - INFO: Step 5: Checking response
+2023-11-30 19:21:12,845 - INFO: Step 5: Checking response
+2023-11-30 19:22:08,727 - INFO: Script iniciado.
+2023-11-30 19:22:09,406 - ERROR: Erro durante a execução do script: Value for filter on field path 'subject' cannot be None
+2023-11-30 19:22:09,437 - INFO: Script concluído.
+2023-11-30 19:28:30,054 - INFO: Step 5: Checking response
+2023-11-30 19:28:30,425 - INFO: Step 5: Checking response
+2023-11-30 19:28:44,857 - INFO: Script iniciado.
+2023-11-30 19:29:33,991 - INFO: Step 5: Checking response
+2023-11-30 19:29:34,323 - INFO: Step 5: Checking response
+2023-11-30 19:30:18,201 - INFO: Script iniciado.
+2023-11-30 19:31:51,669 - INFO: Step 5: Checking response
+2023-11-30 19:31:52,008 - INFO: Step 5: Checking response
+2023-11-30 19:32:38,547 - INFO: Script iniciado.
+2023-11-30 19:33:53,809 - ERROR: Erro durante a execução do script: 'NoneType' object is not iterable
+2023-11-30 19:33:53,842 - INFO: Script concluído.
+2023-11-30 19:34:24,159 - INFO: Step 5: Checking response
+2023-11-30 19:34:24,488 - INFO: Step 5: Checking response
+2023-11-30 19:34:38,692 - INFO: Script iniciado.
+2023-11-30 19:34:39,755 - ERROR: Erro durante a execução do script: Value for filter on field path 'subject' cannot be None
+2023-11-30 19:34:39,800 - INFO: Script concluído.
+2023-11-30 19:38:03,764 - INFO: Step 5: Checking response
+2023-11-30 19:38:04,057 - INFO: Step 5: Checking response
+2023-11-30 19:38:16,110 - INFO: Script iniciado.
+2023-11-30 19:39:24,996 - ERROR: Erro durante a execução do script: 'NoneType' object is not iterable
+2023-11-30 19:39:25,019 - INFO: Script concluído.
+2023-11-30 19:42:03,097 - INFO: Step 5: Checking response
+2023-11-30 19:42:03,375 - INFO: Step 5: Checking response
+2023-11-30 19:42:19,962 - INFO: Script iniciado.
+2023-11-30 19:43:36,539 - ERROR: Erro durante a execução do script: 'NoneType' object is not iterable
+2023-11-30 19:43:36,585 - INFO: Script concluído.
